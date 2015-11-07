@@ -50,6 +50,12 @@ char implantBit(char c, int bit, int index){
  */
 void textToBinary(FILE *in, FILE *out){
     // TODO Implement me!
+
+    asdfsdlkfja-----------------------------------
+    slkdfjaldfj
+    asldfjal;fjw
+    ladsjfa;ljafad
+    fjalkdsfjaldfkaj-------------------------------
 }
 
 /**
