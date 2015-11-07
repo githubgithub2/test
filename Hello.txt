@@ -2,6 +2,7 @@ Hello World!!
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,6 @@ Hello World!!
 
 
 Whaaaaah
+=======
+Heeey
+>>>>>>> 7ba886bcf7187a9c6fb9902c2b39d334f62f1f9a
